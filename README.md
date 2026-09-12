@@ -1,16 +1,63 @@
-## Hi there 👋
+# Casey Gilmore
 
-<!--
-**casey-gilmore/casey-gilmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Psychology | Strategy | Partnerships | Research | Community Impact
 
-Here are some ideas to get you started:
+I bring 20+ years of experience in leadership, business development, strategic partnerships, fundraising, and community engagement together with a foundation in psychology and social science research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in how **people, organizations, technology, and culture intersect** — and how research, data, and emerging technology can be translated into practical strategies that improve outcomes.
+
+---
+
+## 🔎 Areas of Interest
+
+- 🧠 Behavioral & Social Science
+- 📊 Research & Data Analysis
+- 🤝 Strategic Partnerships
+- 🌎 Cross-Cultural Research
+- 🏢 Organizational Strategy
+- 🤖 AI & Human Behavior
+- ❤️ Community Impact
+
+---
+
+## 📂 Featured Projects
+
+### The Psychology of Connection
+Exploring social connection, belonging, technology, and wellbeing.
+
+### Community Impact Analytics
+Using data to understand community participation, engagement, and social impact.
+
+### Membership Strategy Lab
+Exploring how behavioral insights, customer segmentation, and strategy can support organizational growth.
+
+### AI, Work & Human Behavior
+Examining how artificial intelligence is changing work, decision-making, and human behavior.
+
+### Consuming Culture in Paris
+Exploring culture, class, consumption, and cultural capital through research conducted during study abroad in Paris.
+
+---
+
+## 🎓 Education
+
+**B.S. Psychology**  
+Northern Kentucky University
+
+---
+
+## 💡 What I'm Exploring
+
+I'm particularly interested in the intersection of:
+
+**People + Strategy + Technology + Impact**
+
+I'm continuing to build skills in research, data analysis, visualization, and AI while applying them to real-world organizational and social questions.
+
+---
+
+## 🔗 Connect
+
+[LinkedIn](YOUR-LINKEDIN-URL)
+
+[GitHub](https://github.com/casey-gilmore)
