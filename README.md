@@ -1,6 +1,6 @@
 # Casey Gilmore
 
-### Psychology | Strategy | Partnerships | Research | Community Impact
+### Psychology | Strategy & Partnerships | Research | Behavioral & Social Impact | Data + AI
 
 I bring 20+ years of experience in leadership, business development, strategic partnerships, fundraising, and community engagement together with a foundation in psychology and social science research.
 
